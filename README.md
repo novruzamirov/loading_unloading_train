@@ -1,0 +1,2 @@
+# loading_unloading_train
+You are asked to write a C++ program that simulates the loading and unloading a train. The train has wagons, and they are to be loaded/unloaded with various materials available. Materials are of different types and have different priorities for loading onto a pallet in a wagon (Figure 1). Each wagon has capacity of 2000kg for each type of materials. Both wagons and materials on each wagon need to be implemented as linked-list data structure.
